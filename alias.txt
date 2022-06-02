@@ -1,0 +1,14 @@
+ALIAS
+
+------------------------
+syntax:-
+
+alias <short name>="Your Command"
+
+-----------------------------
+
+Example:-
+
+alias
+alias d="ls -ltr | awk '{print \$9}"
+alias pchorn="ps -ef | grep "
