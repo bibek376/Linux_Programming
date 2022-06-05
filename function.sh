@@ -16,7 +16,7 @@ name(){
 
 function call style
 
-name()
+name
 
 : '
 
